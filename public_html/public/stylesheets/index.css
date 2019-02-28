@@ -1,0 +1,18 @@
+#parallaxBar{
+    height:750px;
+    background-color:#004c82;
+    background: url(../images/Background.jpg) fixed no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    z-index:-9999; 
+}
+
+.port-button{
+    padding:20px;
+    display:block;
+    border:black 3px inset;
+    text-decoration:none;
+}
+.port-button:hover{
+    text-decoration:none;
+}
