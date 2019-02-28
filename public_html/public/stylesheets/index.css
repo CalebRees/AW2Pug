@@ -27,6 +27,12 @@
       width: 100%;
     }
   }
-  .fit{
-      object-fit:scale-down;
+  .fit-cover{
+      object-fit:cover;
+  }
+  .fit-scale{
+    object-fit:contain;
+  }
+  .back2{
+
   }
